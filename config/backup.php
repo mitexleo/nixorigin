@@ -102,7 +102,8 @@ return [
              * The disk names on which the backups will be stored.
              */
             'disks' => [
-                'local',
+		    'local',
+		    's3',
             ],
         ],
 
@@ -152,11 +153,11 @@ return [
         'notifiable' => \Spatie\Backup\Notifications\Notifiable::class,
 
         'mail' => [
-            'to' => env('BACKUP_EMAIL_ADDRESS', ''),
+            'to' => env('BACKUP_EMAIL_ADDRESS', 'hello@nixorigin.one'),
 
             'from' => [
-                'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
-                'name' => env('MAIL_FROM_NAME', 'Example'),
+                'address' => env('MAIL_FROM_ADDRESS', 'hello@nixorigin.one'),
+                'name' => env('MAIL_FROM_NAME', 'NixOrigin'),
             ],
         ],
 
