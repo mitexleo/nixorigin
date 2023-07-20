@@ -1,4 +1,4 @@
-<p align="center"><img src="https://pixelfed.nyc3.cdn.digitaloceanspaces.com/logos/pixelfed-full-color.svg" width="300px"></p>
+<p align="center"><img src="https://link.storjshare.io/raw/judp7ovik6elqicxcmciucfc35ya/nixone/NixOrigin/nixorigin.svg" width="300px"></p>
 
 <p align="center">
 <a href="https://circleci.com/gh/pixelfed/pixelfed"><img src="https://circleci.com/gh/pixelfed/pixelfed.svg?style=svg" alt="Build Status"></a>
@@ -7,6 +7,8 @@
 </p>
 
 ## Introduction
+
+<b><h3>This is a friendly fork of Pixelfed.</h3></b>
 
 A free and ethical photo sharing platform, powered by ActivityPub federation.
 
@@ -33,13 +35,7 @@ Pixelfed is open-sourced software licensed under the AGPL license.
 The ways you can communicate on the project are below. Before interacting, please
 read through the [Code Of Conduct](CODE_OF_CONDUCT.md).
 
-* Mastodon: [@pixelfed@mastodon.social](https://mastodon.social/@pixelfed)
-* E-mail: [hello@pixelfed.org](mailto:hello@pixelfed.org)
+* Mastodon: [@mitexleo@defcon.social](https://defcon.social/@mitexleo)
+* E-mail: [hello@nixorigin.one](mailto:hello@nixorigin.one)
 
-## Pixelfed Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Pixelfed development. If you are interested in becoming a sponsor, please visit the Pixelfed [Patreon Page](https://www.patreon.com/dansup/overview)
-
-- [NLnet Foundation](https://nlnet.nl) and [NGI0
-Discovery](https://nlnet.nl/discovery/), part of the [Next Generation
-Internet](https://ngi.eu) initiative.
