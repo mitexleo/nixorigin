@@ -70,11 +70,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="mobile-web-app-capable" content="yes">
 
-	<title>{{ $title ?? config('app.name', 'Pixelfed') }}</title>
+	<title>{{ $title ?? config('app.name', 'NixOrigin') }}</title>
 	<link rel="manifest" href="/manifest.json">
 
-	<meta property="og:site_name" content="{{ config('app.name', 'pixelfed') }}">
-	<meta property="og:title" content="{{ $title ?? config('app.name', 'pixelfed') }}">
+	<meta property="og:site_name" content="{{ config('app.name', 'NixOrigin') }}">
+	<meta property="og:title" content="{{ $title ?? config('app.name', 'NixOrigin') }}">
 	<meta property="og:type" content="article">
 	<meta property="og:url" content="{{url(request()->url())}}">
 	@stack('meta')
