@@ -8,6 +8,10 @@
 			<a href="/site/privacy">Privacy</a>
 			<div class="spacer">·</div>
 			<a href="https://pixelfed.org/mobile-apps" target="_blank">Mobile Apps</a>
+			<div class="spacer">.</div>
+			<a href="https://bmc.link/neonota" target="_blank">Buy Me A Coffee</a>
+			<div class="spacer">.</div>
+			<a href="https://patreon.com/neonota" target="_blank">Patreon</a>
 		</div>
 
 		<div class="footer-component-attribution">
