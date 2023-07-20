@@ -6,7 +6,9 @@
           <a href="{{route('site.help')}}" class="text-dark p-2">{{__('site.help')}}</a>
           <a href="{{route('site.terms')}}" class="text-dark p-2">{{__('site.terms')}}</a>
           <a href="{{route('site.privacy')}}" class="text-dark p-2">{{__('site.privacy')}}</a>
-          <a href="{{route('site.language')}}" class="text-dark p-2">{{__('site.language')}}</a>
+	  <a href="{{route('site.language')}}" class="text-dark p-2">{{__('site.language')}}</a>
+          <a href="https://bmc.link/neonota" class="text-dark p-2">Buy Me A Coffee</a>
+          <a href="https://patreon.com/neonota" class="text-dark p-2">Patreon</a>
           @if(config_cache('instance.has_legal_notice'))
             <a href="/site/legal-notice" class="text-dark p-2">Legal Notice</a>
           @endif
